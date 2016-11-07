@@ -1,7 +1,9 @@
-#### Java Hands-On Workshop
+### Java Hands-On Workshop
 
-###### Conducted at MVJ College Of Engineering, Bengaluru
+**Conducted at MVJ College Of Engineering, Bengaluru**
+
 ---
+
 This project contains the code examples and exercises related to the workshop I had conducted at the MVJ College Of Engineering, Bengaluru.
 
 The slides related to the workshop can be found **[here](http://www.slideshare.net/ArpitPoladia/java-handson-workshop)**.
